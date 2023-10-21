@@ -1,5 +1,0 @@
-pandas
-googlesearch_python
-bs4
-html5lib
-lxml
